@@ -1,0 +1,28 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 230px;
+    width: 200px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    background: linear-gradient(45deg, red, blue);
+    
+  
+}
+
+
+.images{
+    width: 60px;
+}
+
+.title{
+    text-align: center;
+    color: rgb(212, 134, 134);
+    font-size: 16px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+    
+}

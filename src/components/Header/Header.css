@@ -1,0 +1,20 @@
+.img-container{
+    margin: 0px;
+    display: flex;
+    font-size: 50px;
+    background-color: #c96929;
+    color: rgb(87, 83, 83);
+    gap: 0.7rem;
+    
+    
+}
+
+.img{
+    width: 80px ;
+}
+
+.head{
+    text-align: center;
+    color: rgb(175, 161, 187);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
